@@ -54,7 +54,7 @@ pip install -r requirements.txt
 ### ▶️ 2. Run the App
 
 streamlit run app.py
-
+```
 ## 📦 Output
 The scraped data is saved as a CSV file, containing the following columns:
 
