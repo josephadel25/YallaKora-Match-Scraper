@@ -6,7 +6,7 @@ A simple and effective web scraping app to extract football match data from [Yal
 
 ## 📸 Demo
 
-![App Screenshot](screenshot.png) <!-- Replace with your actual screenshot if available -->
+![App Screenshot](Screenshot.png) <!-- Replace with your actual screenshot if available -->
 
 ---
 
