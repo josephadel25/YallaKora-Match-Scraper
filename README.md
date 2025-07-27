@@ -32,7 +32,7 @@ A simple and effective web scraping app to extract football match data from [Yal
 
 ## 📂 Project Structure
 
-```bass
+```
 📁 yallakora-scraper/
 │
 ├── app.py # Streamlit app UI
