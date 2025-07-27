@@ -74,8 +74,10 @@ Team B Penalty Score, Winner, Match Status, Match URL
 
  Arabic UI support
 
-🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome. If you'd like to suggest features or report bugs, please open an issue.
 
-📄 License
+---
+
+## 📄 License
 MIT License — free for personal and commercial use.
