@@ -62,6 +62,8 @@ Date, Time, Champion, Round, Team A, Team B,
 Team A Score, Team B Score, Team A Penalty Score,
 Team B Penalty Score, Winner, Match Status, Match URL
 
+---
+
 ## ✅ To-Do / Future Features
 
  Add team filtering
