@@ -47,14 +47,15 @@ A simple and effective web scraping app to extract football match data from [Yal
 
 ### 🔧 1. Clone & Install
 
-```bash
+```
 git clone https://github.com/yourusername/yallakora-scraper.git
 cd yallakora-scraper
 pip install -r requirements.txt
-
+```
 
 ### ▶️ 2. Run the App
 
+```
 streamlit run app.py
 ```
 ## 📦 Output
